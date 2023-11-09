@@ -1,0 +1,3 @@
+/Users/akritasvladimir/CLionProjects/Knights tour/cmake-build-debug/CMakeFiles/5.dir
+/Users/akritasvladimir/CLionProjects/Knights tour/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akritasvladimir/CLionProjects/Knights tour/cmake-build-debug/CMakeFiles/rebuild_cache.dir
